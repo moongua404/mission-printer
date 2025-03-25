@@ -1,2 +1,2 @@
-rootProject.name = "mission-hello-world"
+rootProject.name = "mission-printer"
 
